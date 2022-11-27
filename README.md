@@ -3,6 +3,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ProCoder97.ProCoder97)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 
 ```python
 #!/usr/bin/python
