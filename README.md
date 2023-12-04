@@ -8,7 +8,7 @@
 
 ```javascript
 #!/usr/bin/javascript
-# -*- coding: utf-8 -*-
+
 class FrontEndDeveloper {
   constructor() {
     this.name = "Swapnil Jadhav";
